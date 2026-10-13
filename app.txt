@@ -7,6 +7,8 @@ This sample paragraph provides additional content for testing text layout and sp
 
 The quick brown fox jumps over the lazy dog. A gentle breeze moves through the trees while soft sunlight fills the quiet garden. These sentences serve as simple placeholder content.
 
+drop release-1 commit: update app.txt =============
+
 More dummy text helps demonstrate how the application handles multiple paragraphs. Replace this content with real information when the final copy is ready.
 
 commit #2: wefewjhjwesfkwesjkhewhfowfoweg
