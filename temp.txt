@@ -1,0 +1,10 @@
+THIS IS A TEMP.TXT file.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This is dummy text for testing the application.
+
+This sample paragraph provides additional content for testing text layout and spacing. It can be used to see how longer blocks of text appear within the application.
+
+The quick brown fox jumps over the lazy dog. A gentle breeze moves through the trees while soft sunlight fills the quiet garden. These sentences serve as simple placeholder content.
+
+================ END ===============
