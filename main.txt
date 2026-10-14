@@ -21,6 +21,4 @@ Devtask_1 commit #3 (finale)
 Accidenatl Commit #1:
 Acidental commit #2:
 
-main commit #1
-
 ========== END ============
