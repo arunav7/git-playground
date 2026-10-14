@@ -18,4 +18,7 @@ The final content can be updated once the application is ready.
 Devtask_1 commit #3 (finale)
 
 
+Accidenatl Commit #1:
+Acidental commit #2:
+
 ========== END ============
