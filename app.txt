@@ -14,5 +14,6 @@ More dummy text helps demonstrate how the application handles multiple paragraph
 commit #2: wefewjhjwesfkwesjkhewhfowfoweg
 
 feature: commit #1
+feature commit #2
 
 ========== END ============
