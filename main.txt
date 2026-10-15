@@ -9,6 +9,10 @@ The quick brown fox jumps over the lazy dog. A gentle breeze moves through the t
 
 More dummy text helps demonstrate how the application handles multiple paragraphs. Replace this content with real information when the final copy is ready.
 
+feature/v.1 initial commit #1
+feature/v.1 2nd commit #2
+feature/v.1 3rd commit #3
+
 This additional line provides sample content for testing.
 drop commit #1: sfewwef =================>
 Each new line helps illustrate the spacing and flow of the document.
