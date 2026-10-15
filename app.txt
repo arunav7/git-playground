@@ -12,6 +12,7 @@ drop release-1 commit: update app.txt =============
 commit on main: 2
 
 Remote edits #1: To mimic changes by other teammate
+Remote edits #2: another changes from team mate
 feature/v.1 initial commit in app.txt
 
 More dummy text helps demonstrate how the application handles multiple paragraphs. Replace this content with real information when the final copy is ready.
